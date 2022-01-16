@@ -3,7 +3,7 @@
 
 - This project meant with detecting the 7 different human's facial expressions (Natural - Happy - Fear - Sad - Surprise - angry).
 
-- <b><i>The libraries used:</i><b/> Tensorflow, OpenCV, Skimage, Numpy, Seaborn, Matplotlib and Sklearn (for model evaluation).  
+- <b><i>The libraries used:</i><b/> Tensorflow, Keras, OpenCV, Skimage, Numpy, Seaborn, Matplotlib and Sklearn (for model evaluation).  
 
 - <b><i>The Dataset used:</i><b/> https://www.kaggle.com/msambare/fer2013
 
