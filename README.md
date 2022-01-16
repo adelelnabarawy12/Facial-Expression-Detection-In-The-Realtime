@@ -28,13 +28,13 @@
   
   <img src = '/imgs/dev_model_arch.png' width = '400px'>
   
-## The model performance:
+## The model evaluation:
   - <b><i>Model Accuracy:</i><b/> <b>60%</b>
   - <b><i>The confusion matrix:</i><b/>
     
   <img src = '/imgs/confusion_matrix.png' width = '400px'>
   
-  - <b><i>The Model training performance:</i><b/>
+  - <b><i>The Model training and validation performance:</i><b/>
     
   <img src = '/imgs/model_training_performance.png'>
   
